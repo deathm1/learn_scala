@@ -312,9 +312,7 @@ val result = (10 + 5) * 2  // Parentheses change precedence: (15) * 2 = 30
 println(result)
 ```
 
----
-
-### **Key Takeaways**
+### Key Takeaways
 
 - Always use parentheses when in doubt about operator precedence.
 - Understand that **Scala's operators are methods**, so chaining or overloading them is possible.
